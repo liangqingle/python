@@ -1,0 +1,755 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ho",
+				"homeworkFileName"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"line",
+				"outline-color"
+			],
+			[
+				"hei",
+				"line-height"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"t",
+				"thick"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"th",
+				"thin"
+			],
+			[
+				"bod",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"que",
+				"queueBind"
+			],
+			[
+				"exhange",
+				"exchange_type_fanout"
+			],
+			[
+				"trans",
+				"transferFile_host_thread"
+			],
+			[
+				"host_threa",
+				"host_thread_list"
+			],
+			[
+				"transfer",
+				"transferFile_host_thread"
+			],
+			[
+				"host_thread",
+				"host_thread"
+			],
+			[
+				"tr",
+				"transferFile_group_thread"
+			],
+			[
+				"group_threa",
+				"group_thread_list"
+			],
+			[
+				"transferfile",
+				"transferFile_host_thread"
+			],
+			[
+				"dis",
+				"dispatchbygroup_group_thread"
+			],
+			[
+				"group",
+				"group_threading"
+			],
+			[
+				"di",
+				"dispatchbygroup_threads"
+			],
+			[
+				"groupnam",
+				"groupNames"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"user",
+				"userNameMap"
+			],
+			[
+				"con",
+				"continueflag"
+			],
+			[
+				"func",
+				"functionObj"
+			],
+			[
+				"modul",
+				"moduleObj"
+			],
+			[
+				"modu",
+				"moduleObj"
+			],
+			[
+				"get",
+				"getGroupList"
+			],
+			[
+				"add",
+				"addHost"
+			],
+			[
+				"hostInfo",
+				"hostInfoMap"
+			],
+			[
+				"hostinfo",
+				"hostInfoMap"
+			],
+			[
+				"has",
+				"hasGroup"
+			],
+			[
+				"hostinof",
+				"hostInfoMap"
+			],
+			[
+				"re",
+				"reload"
+			],
+			[
+				"HOST",
+				"HOSTINFO_REAL_FILE_NAME"
+			],
+			[
+				"getme",
+				"getMenuItem"
+			],
+			[
+				"menuIte",
+				"menuItem"
+			],
+			[
+				"menuItem",
+				"menuItems"
+			],
+			[
+				"getMen",
+				"getMenuItem"
+			],
+			[
+				"cal",
+				"calUserSize"
+			],
+			[
+				"connect",
+				"connecttoHosts"
+			],
+			[
+				"gethost",
+				"getHostInfo"
+			],
+			[
+				"getr",
+				"getGroups"
+			],
+			[
+				"getgr",
+				"getGroupByName"
+			],
+			[
+				"getg",
+				"getGroupByName"
+			],
+			[
+				"serverconfig",
+				"serverconfig"
+			],
+			[
+				"currentsi",
+				"currentsize"
+			],
+			[
+				"md5",
+				"md5value"
+			],
+			[
+				"cla",
+				"calmd5"
+			],
+			[
+				"server",
+				"serverConfig"
+			],
+			[
+				"rec",
+				"recvData"
+			],
+			[
+				"targetpath",
+				"targetPath"
+			],
+			[
+				"filename",
+				"filename"
+			],
+			[
+				"client",
+				"client_socket"
+			],
+			[
+				"fi",
+				"fileinfo"
+			],
+			[
+				"the",
+				"thefilesize"
+			],
+			[
+				"recv",
+				"recvData"
+			],
+			[
+				"send",
+				"sendMsg"
+			],
+			[
+				"spli",
+				"splitItem"
+			],
+			[
+				"spl",
+				"splitItem"
+			],
+			[
+				"sp",
+				"splitItme"
+			],
+			[
+				"co",
+				"client_socket"
+			],
+			[
+				"bu",
+				"buffer_size"
+			],
+			[
+				"comman",
+				"commandstr"
+			],
+			[
+				"command",
+				"commandBufferSize"
+			],
+			[
+				"F",
+				"USER_INFO_FILE_NAME"
+			],
+			[
+				"file",
+				"fileTools"
+			],
+			[
+				"Secu",
+				"SecurityFileTools"
+			],
+			[
+				"S",
+				"SECURITY_FILE_NAME"
+			],
+			[
+				"set",
+				"setSecurity"
+			],
+			[
+				"se",
+				"SecrurityFileTools"
+			],
+			[
+				"s",
+				"SecrurityFileTools"
+			],
+			[
+				"Sec",
+				"security"
+			],
+			[
+				"lastfi",
+				"lastfinish"
+			],
+			[
+				"pro",
+				"projectManager"
+			],
+			[
+				"per",
+				"performer"
+			],
+			[
+				"Require",
+				"Requirement"
+			],
+			[
+				"init",
+				"init_role"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "day/day1/README.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "# -*- coding:utf-8 -*-\n\n\"\"\"\n    项目工具类\n\"\"\"\n\n\ndef filedispatch(sourcedirectory, filename, targetdirectory):\n    ",
+			"file": "day/tools/tools.py",
+			"file_size": 0,
+			"file_write_time": 131104343530648758,
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/github/python/oldboy/day",
+		"/D/github/python/oldboy/day/day1",
+		"/D/github/python/oldboy/day/tools"
+	],
+	"file_history":
+	[
+		"/C/Users/thinkpad/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/github/python/oldboy/homework.sublime-project",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ProductB2.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ProductB1.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ProductB.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ProductA2.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ProductA1.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ProductA.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/Creator.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ConcreteCreator2.java",
+		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ConcreteCreator1.java",
+		"/D/python/homework/pythonsource/web/mysite/mysite/settings.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/blog/views.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/blog/tests.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/blog/models.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/blog/apps.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/blog/admin.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/blog/migrations/__init__.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/blog/__init__.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/urls.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/wsgi.py",
+		"/D/python/homework/pythonsource/web/mysite/mysite/__init__.py",
+		"/D/python/homework/pythonsource/web/mysite/manage.py",
+		"/D/python/homework/pythonsource/web/mysite/db.sqlite3",
+		"/D/bigdata/homework/userlist.html",
+		"/D/bigdata/homework/machinelist.html",
+		"/D/bigdata/homework/regi.html",
+		"/D/bigdata/homework/login.html",
+		"/D/bigdata/homework/Homeworker.java",
+		"/D/python/homework/stu107561/Day15/readme.txt",
+		"/D/python/homework/stu107561/Day14/readme.txt",
+		"/D/python/homework/stu107561/Day12/one/readme.txt",
+		"/D/python/homework/stu107561/Day13/homework.css",
+		"/D/python/homework/stu107561/Day13/homework.js",
+		"/D/python/homework/stu107561/Day13/homework.html",
+		"/D/python/homework/stu107561/Day13/homeworkone.html",
+		"/D/python/homework/stu107561/Day13/readme.txt",
+		"/D/python/homework/stu107561/Day13/jquery-2.2.3.js",
+		"/D/python/homework/stu107561/Day12/two/hometwo.css",
+		"/D/python/homework/stu107561/Day13/homework3.html",
+		"/D/python/homework/stu107561/Day13/homeworktwo.html",
+		"/D/python/homework/stu107561/Day12/two/two.html",
+		"/D/python/homework/stu107561/Day12/one/agreement.html",
+		"/D/python/homework/stu107561/Day12/one/login.html",
+		"/D/python/homework/stu107561/Day12/two/readme.png",
+		"/D/python/homework/stu107561/Day12/two/readme.txt",
+		"/D/python/homework/stu107561/Day12/readme.txt",
+		"/D/python/homework/stu107561/Day11/log/serverlogging.py",
+		"/D/python/homework/stu107561/Day11/log/__init__.py",
+		"/D/python/homework/stu107561/Day11/security/__init__.py",
+		"/D/python/homework/stu107561/Day11/audit/__init__.py",
+		"/D/python/homework/stu107561/Day11/main/__init__.py",
+		"/D/python/homework/stu107561/Day11/readme.txt",
+		"/D/ylink/hr/会议记录.txt",
+		"/D/python/homework/stu107561/Day10/homwwork_two/command.py",
+		"/D/python/homework/stu107561/Day10/homwwork_two/receiver.py",
+		"/D/python/homework/stu107561/Day10/homwwork_two/sender.py",
+		"/D/python/homework/stu107561/Day10/howmwork.txt",
+		"/D/python/homework/stu107561/Day10/homework_one/twisted_echo_client.py",
+		"/D/python/homework/stu107561/Day10/homework_one/twisted_echo_server.py",
+		"/D/python/homework/stu107561/Day9/homework_two/hostmanager.py",
+		"/D/python/homework/stu107561/Day9/homework_two/terminal.py",
+		"/D/python/homework/stu107561/Day9/homework_two/menu.py",
+		"/D/python/homework/stu107561/Day9/homework_two/menu.xml",
+		"/D/python/homework/stu107561/Day9/homework_two/readme.txt",
+		"/D/python/homework/stu107561/Day9/homework_two/paramiko.log",
+		"/D/python/homework/stu107561/Day9/homework_two/hostinfo.py",
+		"/D/python/homework/stu107561/Day9/homework_two/run.bat",
+		"/D/python/homework/stu107561/Day9/homework_two/hostinfo.xml",
+		"/D/python/homework/stu107561/Day9/homework_two/hostinfo.xml.bak.xml",
+		"/D/python/besthomework/pythoncookbook.py",
+		"/D/python/homework/stu107561/Day9/homework_one/readme.txt",
+		"/D/python/homework/stu107561/Day8/homework_two/readme.txt",
+		"/D/python/homework/stu107561/Day8/homework_one/readme.txt",
+		"/D/python/homework/stu107561/Day8/homework_two/hostinfo.py",
+		"/D/python/homework/stu107561/Day9/homework_two/saltstackdemo.py",
+		"/D/python/homework/stu107561/Day9/__init__.py",
+		"/D/python/homework/stu107561/Day9/homework_one/select_alex.py",
+		"/D/python/homework/stu107561/Day8/homework_two/hostinfo.xml",
+		"/D/python/homework/stu107561/Day8/homework_two/hostmanager.py",
+		"/D/python/homework/stu107561/Day8/homework_two/menu.xml",
+		"/D/bigdata/L017-老男孩教育-大数据1期-Java基础-pbb/QQDemo/.classpath",
+		"/D/python/homework/stu107561/Day8/homework_two/menu.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/serverFunction.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/userinfo.py",
+		"/D/python/homework/stu107561/Day8/homework_one/client/clientFunc.py",
+		"/D/python/homework/stu107561/Day8/homework_two/hostinfo.xml.bak.xml",
+		"/D/python/homework/stu107561/Day8/homework_two/hostinfo.xmlBAK",
+		"/D/python/homework/stu107561/Day8/homework_two/hostinfo.xml.BAK",
+		"/D/python/homework/stu107561/Day8/homework_two/terminal.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/newServer.py",
+		"/D/python/homework/stu107561/Day8/homework_two/paramiko.log",
+		"/D/python/homework/stu107561/Day8/homework_one/server/server.py",
+		"/D/python/homework/stu107561/Day8/homework_one/client/tcpclient.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/server.ini",
+		"/D/python/homework/stu107561/Day8/homework_one/client/client.ini",
+		"/D/python/homework/stu107561/Day8/homework_one/server/serverconfig.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/run.bat",
+		"/D/python/homework/stu107561/Day8/homework_one/server/security.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/FileTools.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/DirectTools.py",
+		"/D/python/besthomework/lqllogging/firstLogging.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/main.py",
+		"/D/python/homework/stu107561/Day8/homework_one/server/ftphandler.py",
+		"/D/python/homework/stu107561/Day8/test/one.py",
+		"/D/python/homework/stu107561/Day8/homework_one/newServer.py",
+		"/D/python/homework/stu107561/Day8/homework_one/ftphandler.py",
+		"/D/bigdata/L015-老男孩教育-大数据1期-Java基础-pbb/L015-老男孩教育-大数据1期-Java基础-pbb/DirCopy/src/com/it18zhang/dircopy/App.java",
+		"/D/python/homework/stu107561/Day7/server/server.py",
+		"/D/python/homework/stu107561/Day7/client/test.py",
+		"/D/python/homework/stu107561/Day7/client/clientFunc.py",
+		"/D/python/homework/stu107561/Day7/server/serverFunction.py",
+		"/D/python/homework/stu107561/Day7/client/client.ini",
+		"/D/python/homework/stu107561/Day7/client/tcpclient.py",
+		"/D/python/homework/stu107561/Day7/server/server.ini",
+		"/D/python/homework/stu107561/Day7/client/clientConf.py",
+		"/D/python/homework/stu107561/Day7/server/serverconfig.py",
+		"/D/python/homework/stu107561/Day7/server/DirectTools.py",
+		"/D/python/homework/stu107561/Day7/server/FileTools.py",
+		"/D/python/homework/stu107561/Day7/server/security.py",
+		"/D/python/homework/stu107561/Day7/server/userinfo.py",
+		"/D/python/homework/stu107561/Day7/server/server.ini~",
+		"/D/python/homework/stu107561/Day7/day7_project.sublime-project",
+		"/D/python/homework/stu107561/day7_new/day7.sublime-project",
+		"/D/python/homework/stu107561/Day6/role/Programmer.py",
+		"/D/python/homework/stu107561/Day6/role/ProjectManager.py",
+		"/D/python/homework/stu107561/Day6/scene/requirement.py",
+		"/D/python/homework/stu107561/Day6/communicate/communicate.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content_left",
+			"menu",
+			"transferInfo",
+			"getTransferInfo",
+			"login",
+			"sign",
+			"upload",
+			"islogin",
+			"upload",
+			"login",
+			"ok",
+			"traceback"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "day/day1/README.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "day/tools/tools.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "homework.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
