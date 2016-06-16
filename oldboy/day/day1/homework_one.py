@@ -18,8 +18,6 @@ while checkcount>0:
     username_input = input("username:")
     userpassword_input = getpass()
     try:
-        print(userpasswordlist[usernamelist.index(userpassword_input)])
-
         if userpassword_input == userpasswordlist[usernamelist.index(userpassword_input)]:
             passflag=True
             break
