@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"city",
+				"city_choise"
+			],
+			[
+				"pro",
+				"province_choise"
+			],
+			[
+				"tmp",
+				"tmp_city"
+			],
+			[
+				"provi",
+				"provincename"
+			],
+			[
+				"prov",
+				"provincename"
+			],
+			[
+				"province",
+				"province_choise"
+			],
+			[
+				"pr",
+				"provinceNum"
+			],
+			[
+				"provinc",
+				"province_choise"
+			],
+			[
+				"p",
+				"province_choise"
+			],
+			[
+				"count",
+				"countryname"
+			],
+			[
+				"country",
+				"country_choise"
+			],
+			[
+				"contr",
+				"country_choise"
+			],
+			[
+				"counry",
+				"country_choise"
+			],
+			[
+				"pass",
+				"passflag"
+			],
+			[
+				"user",
+				"userpassword_input"
+			],
+			[
 				"ho",
 				"homeworkFileName"
 			],
@@ -146,10 +206,6 @@
 			[
 				"username",
 				"username"
-			],
-			[
-				"user",
-				"userNameMap"
 			],
 			[
 				"con",
@@ -356,10 +412,6 @@
 				"lastfinish"
 			],
 			[
-				"pro",
-				"projectManager"
-			],
-			[
 				"per",
 				"performer"
 			],
@@ -376,21 +428,49 @@
 	"buffers":
 	[
 		{
+			"contents": "作业一：博客(非程序题)\n\n作业二：编写登陆接口\n输入用户名密码\n认证成功后显示欢迎信息\n输错三次后锁定\n\n\n作业三：多级菜单\n三级菜单\n可依次选择进入各子菜单\n所需新知识点：列表、字典",
 			"file": "day/day1/README.txt",
+			"file_size": 248,
+			"file_write_time": 131104562282248911,
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 93,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "# -*- coding:utf-8 -*-\n\n\"\"\"\n    项目工具类\n\"\"\"\n\n\ndef filedispatch(sourcedirectory, filename, targetdirectory):\n    ",
-			"file": "day/tools/tools.py",
-			"file_size": 0,
-			"file_write_time": 131104343530648758,
+			"file": "day/day1/homework_one.py",
 			"settings":
 			{
-				"buffer_size": 110,
+				"buffer_size": 638,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "day/day1/homeworktwo.py",
+			"settings":
+			{
+				"buffer_size": 2910,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "# -*- coding:utf-8 -*- \n\n\"\"\"\n    开发一个简单的计算器程序\n    　　*实现对加减乘除、括号优先级的解析,并实现正确运算\n    ((1+2*3/5*3)-(2*4/3+1-3)*(2+8+(1*2))-((1+2)/(3+4))*(7*6-12-234)/((11*34)*(1+2))) \n\"\"\"\n\n\nif __name__ == \"__main__\":\nprint(repr(\"((1+2*3/5*3)-(2*4/3+1-3)*(2+8+(1*2))-((1+2)/(3+4))*(7*6-12-234)/((11*34)*(1+2)))\"))\n\nprint(((1+2*3/5*3)-(2*4/3+1-3)*(2+8+(1*2))-((1+2)/(3+4))*(7*6-12-234)/((11*34)*(1+2))))",
+			"file": "day/day2/homework_one.py",
+			"file_size": 435,
+			"file_write_time": 131105391212450182,
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Windows",
+				"name": "# -*- coding:utf-8 -*-"
+			}
+		},
+		{
+			"file": "day/day2/README.txt",
+			"settings":
+			{
+				"buffer_size": 40,
 				"line_ending": "Windows"
 			}
 		}
@@ -428,11 +508,13 @@
 	"expanded_folders":
 	[
 		"/D/github/python/oldboy/day",
-		"/D/github/python/oldboy/day/day1",
+		"/D/github/python/oldboy/day/day2",
 		"/D/github/python/oldboy/day/tools"
 	],
 	"file_history":
 	[
+		"/D/github/python/oldboy/day/tools/tools.py",
+		"/D/github/python/oldboy/day/day1/README.txt",
 		"/C/Users/thinkpad/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/D/github/python/oldboy/homework.sublime-project",
 		"/C/Users/thinkpad/Downloads/javayumoshi_qx_jb51/jb51.net/src/src/com/javapatterns/abstractfactory/ProductB2.java",
@@ -558,13 +640,11 @@
 		"/D/python/homework/stu107561/Day7/day7_project.sublime-project",
 		"/D/python/homework/stu107561/day7_new/day7.sublime-project",
 		"/D/python/homework/stu107561/Day6/role/Programmer.py",
-		"/D/python/homework/stu107561/Day6/role/ProjectManager.py",
-		"/D/python/homework/stu107561/Day6/scene/requirement.py",
-		"/D/python/homework/stu107561/Day6/communicate/communicate.py"
+		"/D/python/homework/stu107561/Day6/role/ProjectManager.py"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -607,7 +687,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -616,44 +696,43 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 93,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								93,
+								64
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "day/tools/tools.py",
+					"file": "day/day1/homework_one.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 110,
+						"buffer_size": 638,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								110,
-								110
+								578,
+								578
 							]
 						],
 						"settings":
@@ -661,10 +740,95 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "day/day1/homeworktwo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2035,
+								2035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2436.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "day/day2/homework_one.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# -*- coding:utf-8 -*-",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "day/day2/README.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
