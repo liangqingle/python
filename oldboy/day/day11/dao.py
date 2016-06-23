@@ -6,10 +6,13 @@
 
 import sqlalchemy
 from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
 
 connectstr = "sqlite:///:memory:"
-connect = None
+engine = None
 base = None
+session = None
+metadata = None
 
 
 """
@@ -30,9 +33,10 @@ def showVersion():
     engine表示通过数据库语法处理细节的核心接口
 """
 def getconnect():
-    if connect == None:
-        connect = sqlalchemy.create_engine(connectstr, echo=True)
-    return connect
+    global engine
+    if engine == None:
+        engine = sqlalchemy.create_engine(connectstr, echo=True)
+    return engine
 
 
 """
@@ -44,25 +48,69 @@ def makebase():
         base = declarative_base()
     return base
 
-"""
-    从映射基类中派生出一个映射类	
-"""
-def createUser():
-    from sqlalchemy import Column, Integer, String
-    tmpbase = makebase()
-    class User(tmpbase):
-        __tablename__ = "users"
 
-        id = Column(Integer, primary_key=True)
-        name = Column(String)
-        fullname = Column(String)
-        password = Column(String)
+"""
+    获取metadata
+"""    
+def getmetadata():
+    global metadata
+    if metadata == None:
+        metadata = sqlalchemy.MetaData()
+    return metadata
 
-        def __repr__(self):
-        	return "<User(username='%s' fullname='%s' password='%s')>"\
-        	       %(self.username, self.fullname, self.password)
-    return User
+
+"""
+    初始化表
+"""    
+def createall():
+    makebase().metadata.create_all(getconnect()) 
+
+
+"""
+    建立会话
+"""    
+def createSession():
+    global session
+    if session == None:
+        session = sessionmaker(bind=getconnect())()    
+    return session
+
+
+"""
+    关闭会话
+"""    
+def closesession():
+    global session
+    if session is not None:
+        session.close()
+    return 
+
+
+"""
+    插入数据
+"""    
+def InsertDataBySession(obj):
+    tmpsession = createSession()
+    tmpsession.add(obj)
+    tmpsession.commit()
+
+
+"""
+    删除数据
+"""
+def deletedatabysession(obj):
+    tmpsession = createSession()
+    tmpsession.delete(obj)
+    tmpsession.commit()
+
+"""
+    修改数据
+"""
+
+
+"""
+
+"""    
 
 if __name__ == "__main__":
     print(showVersion())
-    print(createUser())
