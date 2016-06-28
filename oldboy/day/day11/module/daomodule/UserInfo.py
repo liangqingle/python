@@ -3,8 +3,8 @@
 """
     映射类
 """
-
-from dao import makebase, InsertDataBySession, createall, closesession, 
+from dao import dao
+from dao.dao import makebase, InsertDataBySession, createall, closesession, 
 from sqlalchemy import Column, Integer, String
 
 
