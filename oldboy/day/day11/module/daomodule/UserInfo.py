@@ -4,7 +4,7 @@
     映射类
 """
 
-from dao import makebase, InsertDataBySession, createall
+from dao import makebase, InsertDataBySession, createall, closesession, 
 from sqlalchemy import Column, Integer, String
 
 
@@ -26,4 +26,5 @@ if __name__ == "__main__":
     print(info)
     createall()
     InsertDataBySession(info)
+
 
