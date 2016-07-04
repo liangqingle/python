@@ -3,10 +3,22 @@
 """
     映射类
 """
-from dao import dao
-from dao.dao import makebase, InsertDataBySession, createall, closesession, 
-from sqlalchemy import Column, Integer, String
 
+import os
+from os.path import realpath, dirname
+import sys
+
+REALPATH = os.path.realpath(__file__)
+ROOTPATH = dirname(REALPATH)
+ROOTPATH = dirname(ROOTPATH)
+ROOTPATH = dirname(ROOTPATH)
+sys.path.append(ROOTPATH)
+
+from dao.dao import makebase, createall
+from dao.dao import InsertDataBySession
+from dao.dao import deletedatabysession
+from dao.dao import changedatabysession
+from sqlalchemy import Column, Integer, String
 
 class userinfo(makebase()):
     __tablename__ = "users"
@@ -26,5 +38,7 @@ if __name__ == "__main__":
     print(info)
     createall()
     InsertDataBySession(info)
-
-
+    deletedatabysession(info)
+    
+    info.password = "11"
+    changedatabysession(info)

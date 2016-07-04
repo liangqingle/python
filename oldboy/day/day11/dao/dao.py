@@ -106,6 +106,10 @@ def deletedatabysession(obj):
 """
     修改数据
 """
+def changedatabysession(obj):
+    tmpsession = createSession()
+    tmpsession.add(obj)
+    tmpsession.commit()
 
 
 """
