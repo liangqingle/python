@@ -38,7 +38,9 @@ if __name__ == "__main__":
     print(info)
     createall()
     InsertDataBySession(info)
-    deletedatabysession(info)
     
     info.password = "11"
     changedatabysession(info)
+
+    deletedatabysession(info)
+    
