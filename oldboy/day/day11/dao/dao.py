@@ -67,6 +67,13 @@ def createall():
 
 
 """
+    删除表
+"""
+def dropall():
+    makebase().metadata.drop_all(getconnect())
+
+
+"""
     建立会话
 """    
 def createSession():
@@ -113,8 +120,14 @@ def changedatabysession(obj):
 
 
 """
-
+    查询数据
 """    
+def searchdatabysession(classname):
+    tmpsession = createSession()
+    queryobj=tmpsession.query(classname)
+    print(queryobj)
+    tmpsession.commit()
+
 
 if __name__ == "__main__":
     print(showVersion())

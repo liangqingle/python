@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"create",
+				"createSession"
+			],
+			[
+				"get",
+				"getconnect"
+			],
+			[
+				"cre",
+				"create_engine"
+			],
+			[
+				"co",
+				"Column"
+			],
+			[
+				"cl",
+				"Column"
+			],
+			[
 				"city",
 				"city_choise"
 			],
@@ -224,10 +244,6 @@
 				"moduleObj"
 			],
 			[
-				"get",
-				"getGroupList"
-			],
-			[
 				"add",
 				"addHost"
 			],
@@ -360,10 +376,6 @@
 				"splitItme"
 			],
 			[
-				"co",
-				"client_socket"
-			],
-			[
 				"bu",
 				"buffer_size"
 			],
@@ -428,38 +440,28 @@
 	"buffers":
 	[
 		{
-			"file": "day/day15/day15/day15/settings.py",
+			"file": "/D/github/pmi/acp/english_version.txt",
 			"settings":
 			{
-				"buffer_size": 3086,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "day/day11/README.txt",
-			"settings":
-			{
-				"buffer_size": 2500,
+				"buffer_size": 2192,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "day/day11/business.py",
+			"file": "/D/github/pmi/acp/chinese_version.txt",
 			"settings":
 			{
-				"buffer_size": 41,
+				"buffer_size": 636,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "#-*- coding:utf-8 -*-\n\n\"\"\"\n    堡垒机的数据库的操作部份\n\"\"\"\n\nimport sqlalchemy\n\n\"\"\"\n下面是根据文档进行的学习\n\"\"\"\ndef showVersion():\n    \"\"\"\n    \"\"\"\n    return sqlalchemy.__version__\n\nif __name__ == \"__main__\":\n    print(showVersion())",
-			"file": "day/day11/dao.py",
-			"file_size": 257,
-			"file_write_time": 131110554514540005,
+			"contents": "I took over a project manager on the ability to enhance research and development programs.\n\nI was the manager of this project, there is a less than 20 people in the team.\nThere is a team responsible for market research, the team responsible for the preparation of the manuscript, responsible for the management team and responsible for proofreading error correction volunteer team.\n\nEvery week, we will hold an internal meeting, each team made progress report on convergence and exchange with other teams. Every two weeks ,we will meet with representatives of the sponsors and understand their needs.\n\nThis iterative approach is very effective solution to the customers' needs change and team goals inconsistencies. Kanban and other agile effective tools used in this project. \n\nThis agile management method gives me a very big help,let me first time in this type of project achieved ahead of schedule delivery, and customer satisfaction. \n\n\n\n\n\nI discuss the need to complete the user stories with customers, arrange iterative to-do\n\nI discuss with customers of this iteration need to complete the user stories, arrange the iteration backlog.",
 			"settings":
 			{
-				"buffer_size": 210,
-				"line_ending": "Windows"
+				"buffer_size": 1142,
+				"line_ending": "Windows",
+				"name": "I took over a project manager on the ability to en"
 			}
 		}
 	],
@@ -495,18 +497,23 @@
 	},
 	"expanded_folders":
 	[
-		"/D/github/python/oldboy/day",
-		"/D/github/python/oldboy/day/day11",
-		"/D/github/python/oldboy/day/day15/day15",
-		"/D/github/python/oldboy/day/day15/day15/day15",
-		"/D/github/python/oldboy/day/day15/day15/day15/__pycache__"
+		"/D/github/pmi",
+		"/D/github/pmi/acp"
 	],
 	"file_history":
 	[
+		"/D/github/python/oldboy/day/day11/module/daomodule/UserInfo.py",
+		"/D/github/python/oldboy/day/day11/business.py",
+		"/D/github/python/oldboy/day/day11/UserInfo.py",
+		"/D/github/python/oldboy/day/day11/dao.py",
+		"/D/github/pmi/acp/chinese_version.txt",
+		"/D/github/pmi/acp/english_version.txt",
+		"/D/github/pmi/english_version.txt",
 		"/D/github/pmi/chinese_version.txt",
+		"/D/github/python/oldboy/day/day11/README.txt",
+		"/D/github/python/oldboy/day/day15/day15/day15/settings.py",
 		"/D/github/python/oldboy/day/day15/day15/homework/admin.py",
 		"/D/github/python/oldboy/day/day15/day15/db.sqlite3",
-		"/D/github/pmi/english_version.txt",
 		"/D/github/python/oldboy/day/day15/day15/day15/urls.py",
 		"/D/github/python/oldboy/day/day15/day15/homework/views.py",
 		"/D/github/python/oldboy/day/day15/day15/homework/tests.py",
@@ -516,7 +523,6 @@
 		"/D/github/python/oldboy/day/day15/README.txt",
 		"/D/github/python/oldboy/day/day15/day15/manage.py",
 		"/D/github/python/oldboy/day/day15/day15/day15/wsgi.py",
-		"/D/github/python/oldboy/day/day15/day15/day15/settings.py",
 		"/D/github/python/oldboy/day/day12/README.txt",
 		"/D/github/python/oldboy/day/day13/homework_two.html",
 		"/D/github/python/oldboy/day/day13/homework_one.html",
@@ -623,14 +629,7 @@
 		"/D/python/homework/stu107561/Day8/homework_one/server/server.py",
 		"/D/python/homework/stu107561/Day8/homework_one/client/tcpclient.py",
 		"/D/python/homework/stu107561/Day8/homework_one/server/server.ini",
-		"/D/python/homework/stu107561/Day8/homework_one/client/client.ini",
-		"/D/python/homework/stu107561/Day8/homework_one/server/serverconfig.py",
-		"/D/python/homework/stu107561/Day8/homework_one/server/run.bat",
-		"/D/python/homework/stu107561/Day8/homework_one/server/security.py",
-		"/D/python/homework/stu107561/Day8/homework_one/server/FileTools.py",
-		"/D/python/homework/stu107561/Day8/homework_one/server/DirectTools.py",
-		"/D/python/besthomework/lqllogging/firstLogging.py",
-		"/D/python/homework/stu107561/Day8/homework_one/server/main.py"
+		"/D/python/homework/stu107561/Day8/homework_one/client/client.ini"
 	],
 	"find":
 	{
@@ -677,124 +676,91 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "day/day15/day15/day15/settings.py",
+					"file": "/D/github/pmi/acp/english_version.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3086,
+						"buffer_size": 2192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1994,
-								1994
+								2191,
+								2191
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1596.0,
+						"translation.y": 588.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "day/day11/README.txt",
+					"file": "/D/github/pmi/acp/chinese_version.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2500,
+						"buffer_size": 636,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2200,
-								2200
+								424,
+								453
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2535.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "day/day11/business.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 41,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								41,
-								41
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 168.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "day/day11/dao.py",
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 210,
+						"buffer_size": 1142,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								123,
-								123
+								601,
+								601
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"auto_name": "I took over a project manager on the ability to en",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
