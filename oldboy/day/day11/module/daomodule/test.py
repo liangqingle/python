@@ -1,5 +1,4 @@
 #-*- coding:utf-8 -*-
-
 import os
 from os.path import realpath, dirname
 import sys
@@ -18,40 +17,48 @@ from dao.dao import deletedatabysession
 from dao.dao import changedatabysession
 from dao.dao import createall
 
+
 """
-    建立对象
+    寤虹珛瀵硅薄
 """
 info = userinfo(username="liangqingle", 
                 fullname="liangqingle", 
                 password="123"
                )        
+
+
 """
-    初始化表
+    鍒濆鍖栬〃
 """
 createall()
 
+
 """
-    插入单条记录
+    鎻掑叆鏁版嵁璁板綍
 """
 InsertDataBySession(info)
 
+
 """
-    修改数据
+    淇敼瀵硅薄鏁版嵁
 """
 info.password = "11"
 
+
 """
-    修改记录
+    淇敼璁板綍
 """
 changedatabysession(info)
 
 """
-    查询数据
+    鏌ヨ涓庝綘
 """
-searchdatabysession(userinfo)
+result = searchdatabysession(userinfo)
+print(">>>>>>>>>>>>>>>>>>>>>>>")
+print(result)
 
 """
-    删除数据
+    娴嬭瘯
 """
 deletedatabysession(info)
-    
+   

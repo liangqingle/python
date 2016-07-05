@@ -125,8 +125,8 @@ def changedatabysession(obj):
 def searchdatabysession(classname):
     tmpsession = createSession()
     queryobj=tmpsession.query(classname)
-    print(queryobj)
     tmpsession.commit()
+    return queryobj
 
 
 if __name__ == "__main__":
